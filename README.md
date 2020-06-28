@@ -1,0 +1,2 @@
+# Application-of-chi-square-test
+This project shows an application as well as implementation of the Chi-Qudrat test. Chi ‑ square test is a nonparametric test used for two specific purpose: (a) To test the hypothesis of no association between two or more groups, population or criteria (i.e. to check independence between two variables); (b) and to test how likely the observed distribution of data fits with the distribution that is expected (i.e., to test the goodness ‑ of ‑ fit).
